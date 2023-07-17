@@ -1,0 +1,99 @@
+.p-0 {
+    background: #DDD6D9;
+}
+
+.container{
+    margin-left: 25px;
+}
+
+.topo{
+    background-color: #D98236;
+    padding: 50px 0px;
+    min-height: 300px;
+}
+
+.container1{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #F26513;
+}
+
+.row{
+    padding-top: 25px;
+    margin-left: 25px;    
+}
+
+.tutor{
+    margin-top: 25px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.c{
+    align-items: center;
+}
+
+#img_redonda{
+    border-radius: 50%;
+}
+
+.py10{
+    margin-left: 47px;   
+}
+
+.tutor1{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 250px;
+}
+
+.bt{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
+#botao{
+    width: 80%;
+    background-color: #191970e0;
+    color: white;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+}
+#botao:hover{
+    transition: 0.3s;
+    background-color: #0c0c41e0;
+    color: rgb(176, 208, 238);
+    box-shadow: 0 0 5px black;
+}
+
+.bt1{
+    display: flex;
+    width: 25%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    margin-left: 38%;
+}
+#botao1{
+    width: 80%;
+    background-color: #191970e0;
+    color: white;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+}
+#botao1:hover{
+    transition: 0.3s;
+    background-color: #0c0c41e0;
+    color: rgb(176, 208, 238);
+    box-shadow: 0 0 5px black;
+}
